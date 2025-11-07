@@ -68,7 +68,7 @@
     "@babel/core": "^7.25.2",
     "@emotion/babel-plugin": "^11.13.0",
     "@loadable/babel-plugin": "^5.15.3",
-    "@loadable/webpack-plugin": "^5.15.3",
+    "@loadable/webpack-plugin": "^5.15.2",
     "babel-eslint": "^10.1.0",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
