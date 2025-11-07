@@ -1,6 +1,6 @@
 {
   "name": "cleo-esencial-headless",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "private": true,
   "description": "Headless storefront for Cleo Esencial using Shopify Storefront API + Gatsby 5",
   "keywords": [
@@ -21,8 +21,7 @@
     "develop": "gatsby develop",
     "build": "gatsby build",
     "clean": "gatsby clean",
-    "start": "gatsby serve",
-    "vercel-build": "npm install --legacy-peer-deps && gatsby build"
+    "start": "gatsby serve"
   },
   "dependencies": {
     "@emotion/react": "^11.13.3",
@@ -31,23 +30,22 @@
     "@mdx-js/react": "^2.3.0",
     "@n8tb1t/use-scroll-position": "^2.0.3",
     "@reach/visually-hidden": "^0.18.0",
-    "@shopify/storefront-api-client": "^1.0.0",
+    "@shopify/storefront-api-client": "^1.0.1",
     "body-scroll-lock": "^3.1.5",
-    "dotenv": "^16.3.1",
+    "dotenv": "^16.4.5",
     "gatsby": "^5.13.6",
     "gatsby-plugin-image": "^3.13.0",
     "gatsby-plugin-manifest": "^5.13.0",
     "gatsby-plugin-offline": "^6.13.0",
-    "gatsby-plugin-react-helmet": "^6.13.0",
+    "gatsby-plugin-react-helmet-async": "^2.1.0",
     "gatsby-plugin-sharp": "^5.13.0",
     "gatsby-plugin-sitemap": "^6.13.0",
-    "gatsby-plugin-algolia": "^1.0.4",
-    "gatsby-source-shopify": "^7.2.1",
+    "gatsby-source-shopify": "^8.0.1",
     "gatsby-transformer-sharp": "^5.13.0",
     "pure-react-carousel": "^1.28.0",
     "ramda": "^0.29.1",
     "react-ga": "^3.3.1",
-    "react-helmet": "^6.1.0",
+    "react-helmet-async": "^2.0.5",
     "react-icons": "^5.2.1",
     "react-paginate": "^8.3.0",
     "react-share": "^5.1.0",
@@ -60,7 +58,6 @@
     "@babel/core": "^7.25.2",
     "@babel/eslint-parser": "^7.25.0",
     "@emotion/babel-plugin": "^11.13.0",
-    "@loadable/babel-plugin": "^5.15.3",
     "@loadable/webpack-plugin": "^5.15.2",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
@@ -72,6 +69,6 @@
     "react-dom": "^18.0.0"
   },
   "engines": {
-    "node": "22.x"
+    "node": "20.x"
   }
 }
