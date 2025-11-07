@@ -28,7 +28,7 @@
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
     "@gatsby-contrib/gatsby-plugin-elasticlunr-search": "^3.0.2",
-    "@gatsbystorefront/gatsby-source-shopify": "^5.0.0",
+    "gatsby-source-shopify": "^7.0.0",
     "@loadable/component": "^5.16.3",
     "@mdx-js/react": "^2.3.0",
     "@n8tb1t/use-scroll-position": "^2.0.3",
