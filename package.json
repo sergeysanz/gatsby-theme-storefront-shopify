@@ -1,6 +1,6 @@
 {
   "name": "cleo-esencial-headless",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "private": true,
   "description": "Headless storefront for Cleo Esencial using Shopify Storefront API + Gatsby 5",
   "keywords": [
@@ -41,9 +41,9 @@
     "gatsby-plugin-react-helmet": "^6.13.0",
     "gatsby-plugin-sharp": "^5.13.0",
     "gatsby-plugin-sitemap": "^6.13.0",
+    "gatsby-plugin-algolia": "^1.0.4",
     "gatsby-source-shopify": "^7.2.1",
     "gatsby-transformer-sharp": "^5.13.0",
-    "gatsby-plugin-search": "^2.0.0",
     "pure-react-carousel": "^1.28.0",
     "ramda": "^0.29.1",
     "react-ga": "^3.3.1",
