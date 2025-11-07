@@ -22,7 +22,8 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "clean": "gatsby clean",
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "vercel-build": "npm install --legacy-peer-deps && gatsby build"
   },
   "dependencies": {
     "@emotion/react": "^11.1.5",
@@ -37,8 +38,9 @@
     "@theme-ui/presets": "^0.7.0",
     "body-scroll-lock": "^3.0.3",
     "elasticlunr": "^0.9.5",
+    "gatsby": "^3.15.0",
     "gatsby-plugin-layout": "^2.0.0",
-    "gatsby-plugin-loadable-components-ssr": "^2.1.0",
+    "gatsby-plugin-loadable-components-ssr": "^3.0.0",
     "gatsby-plugin-manifest": "^3.0.0",
     "gatsby-plugin-nprogress": "^3.0.0",
     "gatsby-plugin-offline": "^4.0.0",
