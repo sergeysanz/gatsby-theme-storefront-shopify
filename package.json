@@ -35,7 +35,7 @@
     "@reach/visually-hidden": "^0.18.0",
     "@shopify/storefront-api-client": "^1.0.0",
     "@theme-ui/presets": "^0.14.1",
-    "body-scroll-lock": "^4.0.0",
+    "body-scroll-lock": "^3.1.5",
     "dotenv": "^16.3.1",
     "elasticlunr": "^0.9.6",
     "gatsby": "^5.13.6",
