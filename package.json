@@ -30,12 +30,13 @@
     "@gatsby-contrib/gatsby-plugin-elasticlunr-search": "^3.0.2",
     "@gatsbystorefront/gatsby-source-shopify": "^5.0.0",
     "@loadable/component": "^5.16.3",
-    "@mdx-js/react": "^1.6.22",
+    "@mdx-js/react": "^3.0.0",
     "@n8tb1t/use-scroll-position": "^2.0.3",
     "@reach/visually-hidden": "^0.18.0",
     "@shopify/storefront-api-client": "^1.0.0",
     "@theme-ui/presets": "^0.14.1",
     "body-scroll-lock": "^4.0.0",
+    "dotenv": "^16.3.1",
     "elasticlunr": "^0.9.6",
     "gatsby": "^5.13.6",
     "gatsby-plugin-image": "^3.13.0",
@@ -59,7 +60,9 @@
     "react-use": "^17.5.0",
     "shopify-buy": "^2.13.0",
     "theme-ui": "^0.14.1",
-    "util": "^0.12.5"
+    "util": "^0.12.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
@@ -70,13 +73,14 @@
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-react": "^7.34.2",
-    "gatsby-plugin-eslint": "^5.13.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "gatsby-plugin-eslint": "^5.13.0"
   },
   "peerDependencies": {
     "gatsby": "^5.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
