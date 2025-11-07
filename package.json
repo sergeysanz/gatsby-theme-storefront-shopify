@@ -37,7 +37,7 @@
     "@theme-ui/presets": "^0.14.1",
     "body-scroll-lock": "^3.1.5",
     "dotenv": "^16.3.1",
-    "elasticlunr": "^0.9.6",
+    "elasticlunr": "^0.9.5",
     "gatsby": "^5.13.6",
     "gatsby-plugin-image": "^3.13.0",
     "gatsby-plugin-layout": "^5.13.0",
