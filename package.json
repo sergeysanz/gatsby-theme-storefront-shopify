@@ -30,7 +30,7 @@
     "@gatsby-contrib/gatsby-plugin-elasticlunr-search": "^3.0.2",
     "@gatsbystorefront/gatsby-source-shopify": "^5.0.0",
     "@loadable/component": "^5.16.3",
-    "@mdx-js/react": "^3.0.0",
+    "@mdx-js/react": "^1.6.22",
     "@n8tb1t/use-scroll-position": "^2.0.3",
     "@reach/visually-hidden": "^0.18.0",
     "@shopify/storefront-api-client": "^1.0.0",
@@ -46,7 +46,7 @@
     "gatsby-plugin-react-helmet": "^6.13.0",
     "gatsby-plugin-sharp": "^5.13.0",
     "gatsby-plugin-sitemap": "^6.13.0",
-    "gatsby-plugin-theme-ui": "^0.14.1",
+    "gatsby-plugin-theme-ui": "^0.14.7",
     "gatsby-transformer-sharp": "^5.13.0",
     "has-own-prop": "^2.0.1",
     "pure-react-carousel": "^1.28.0",
@@ -59,7 +59,7 @@
     "react-social-icons": "^6.0.1",
     "react-use": "^17.5.0",
     "shopify-buy": "^2.13.0",
-    "theme-ui": "^0.14.1",
+    "theme-ui": "^0.14.7",
     "util": "^0.12.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
@@ -81,6 +81,6 @@
     "react-dom": "^18.0.0"
   },
   "engines": {
-    "node": ">=18"
+    "node": "18.x"
   }
 }
